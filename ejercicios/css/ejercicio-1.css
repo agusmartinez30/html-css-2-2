@@ -1,0 +1,24 @@
+.table-content{
+    border: 2px solid #000;
+}
+    td{
+        border: 1px solid black;
+    }
+.title{
+    background: rgb(29, 29, 29);
+    color: #fff;
+}
+    td{
+        padding: 10px;
+        text-align: center;
+        font-weight: bold;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+.categorias{
+    background: gray;
+    color: #fff;
+}
+    td{
+        font-weight: normal;
+    }

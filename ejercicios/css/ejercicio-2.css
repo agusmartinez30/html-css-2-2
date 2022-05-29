@@ -1,0 +1,43 @@
+
+.tabla{
+    border: 2px solid #000;
+}
+.title{
+    background: gray;
+    
+}
+    td{
+        padding: 10px;
+        text-align: center;
+        font-weight: bold;
+    }
+
+.tabla-2{
+    border: 2px solid green;
+}
+    .tabla-2 tr{
+        background: gray;
+        border: 1px solid #000;
+    }
+    .tabla-2 tr:nth-child(1){
+        background-color: transparent;
+    }
+    .tabla-2 tr:nth-child(6){
+        color: #fff;
+        background-color: rgb(20, 84, 127);
+    }
+
+.tabla-3{
+        border: 2px solid green;
+    }
+        .tabla-3 tr{
+            background: gray;
+            border: 1px solid #000;
+        }
+        .tabla-3 tr:nth-child(1){
+            background-color: transparent;
+        }
+        .tabla-3 tr:nth-child(6){
+            color: #fff;
+            background-color: rgb(20, 84, 127);
+        }
